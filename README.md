@@ -7,4 +7,4 @@
 #### `O projeto pronto pode ser conferido aqui: `<a href='https://handremelo.github.io/recriando-pagina-instagram/'>`https://handremelo.github.io/recriando-pagina-instagram/`</a>
 
 #### Print do projeto finalizado
-<img scr="https://raw.githubusercontent.com/HandreMelo/recriando-pagina-instagram/main/print-projeto.jpg" alt="Print do projeto"/>
+<img src="https://raw.githubusercontent.com/HandreMelo/recriando-pagina-instagram/main/print-projeto.jpg" alt="Print do projeto"/>
